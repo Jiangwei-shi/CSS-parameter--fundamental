@@ -11,9 +11,7 @@ background:red;（背景颜色）
 
 border: 2px Solid purple;（厚度为2px的紫色实线边框）
 
-border-width:thin medium thick 10px;
-
-（上边框是细边框
+border-width:thin medium thick 10px;（上边框是细边框
 右边框是中等边框
 下边框是粗边框
 左边框是 10px 宽的边框）
