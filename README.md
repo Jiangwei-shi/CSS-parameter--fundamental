@@ -27,6 +27,18 @@ text-align:center (文字居中排列)
 
 https://www.w3schools.com/cssref/pr_text_text-align.ASP
 
+justify-content: center (组件在容器中的相对位子)
+
+https://developer.mozilla.org/en-US/docs/Web/CSS/justify-content
+
+align-items: center (组件对齐)
+
+https://developer.mozilla.org/en-US/docs/Web/CSS/align-items
+
+min-height:100vh（设置组件最小高度）
+
+text-decoration: underline(下划线)
+
 ## 一些Tag的意思
 
 <nav> 是指的导航栏
