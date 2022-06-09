@@ -22,3 +22,11 @@ https://developer.mozilla.org/zh-CN/docs/Web/CSS/cursor
 margin:2px;（是button和button组件之间的上下左右宽度）
   
 p:hover, h1:hover, a:hover {background-color: yellow;}（当鼠标悬停在p h1 a 组件上的时候 button的背景颜色变黄）
+
+## 一些Tag的意思
+
+<nav> 是指的导航栏
+
+<a href ="https://www.baidu.com"">Home</a>  一个名为Home的组件指向百度。 如果不加http的话就只是当前地址加www.baidu.com
+                                 
+                                
