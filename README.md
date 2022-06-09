@@ -1,7 +1,7 @@
 # CSS-parameter--fundamental
 here are some css parameter fundamental while I am taking Intership.
 
-## button相关
+## css相关
 
 padding: 7px 10px; (前者是button的内容到border的宽，后者是button的内容到border的长度)
 
@@ -22,6 +22,10 @@ https://developer.mozilla.org/zh-CN/docs/Web/CSS/cursor
 margin:2px;（是button和button组件之间的上下左右宽度）
   
 p:hover, h1:hover, a:hover {background-color: yellow;}（当鼠标悬停在p h1 a 组件上的时候 button的背景颜色变黄）
+
+text-align:center (文字居中排列)
+
+https://www.w3schools.com/cssref/pr_text_text-align.ASP
 
 ## 一些Tag的意思
 
